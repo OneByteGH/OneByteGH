@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=onebytegh&label=Profile%20views&color=000000&style=plastic" alt="onebytegh" /> </p>
 
-<p align="left"> <a href="https://twitter.com/onebytecodes" target="blank"><img src="https://img.shields.io/twitter/follow/onebytecodes?logo=twitter&style=for-the-badge" alt="onebytecodes" /></a> </p>
+<p align="left"> <a href="https://twitter.com/onebytetweets" target="blank"><img src="https://img.shields.io/twitter/follow/onebytetweets?logo=twitter&style=for-the-badge" alt="onebytetweets" /></a> </p>
 
 - 🔭 I’m currently working on [SOLDecoder](soldecoder.app)
 
